@@ -1,0 +1,9 @@
+# HTTrack cookies file (imported)
+# This file was copied from IslamicAcademy/website HTTrack output.
+# Do not commit sensitive session cookies if present.
+#
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+islamicacademyofriverside.net	TRUE	/	FALSE	1999999999	PHPSESSID	90af2602e67c9d08d6fa252dd8e8348e
+paypal.com	TRUE	/	FALSE	1999999999	ts	revXpYrS%3D1817089094%26vteXpYrS%3D1785554894%26vr%3Dbb390e6419f647e008ba4650fef79714%26vt%3Dbb390e6419f647e008ba4650fef79713%26vtyp%3Dnew
+paypal.com	TRUE	/	FALSE	1999999999	ts_c	vr%3Dbb390e6419f647e008ba4650fef79714%26vt%3Dbb390e6419f647e008ba4650fef79713
